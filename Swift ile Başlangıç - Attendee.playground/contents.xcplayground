@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='Giriş Sayfası'/>
+        <page name='Playground Temelleri Başlangıç'/>
+        <page name='Playground Nedir?'/>
+        <page name='Hesaplamalar'/>
+        <page name='Açıklamalar'/>
+        <page name='Bir Şeyler Yanlış Gittiğinde'/>
+        <page name='Hatalar'/>
+        <page name='Sonuç'/>
+        <page name='Adlandırma ve Tanımlayıcılar'/>
+        <page name='Evcil Hayvan Problemi'/>
+        <page name='Evcil Hayvan Problemi - Özet'/>
+        <page name='Bir Şeyleri Adlandırmak'/>
+        <page name='İsimler ve Otomatik Tamamlama'/>
+        <page name='Tanımlayıcılar'/>
+        <page name='İyi İsimler Seçmek'/>
+        <page name='Geliştiricilerin Dili'/>
+        <page name='Adlandırma - Neler Öğrendik?'/>
+        <page name='Egzersiz - Gösteri'/>
+        <page name='Egzersiz - iPhone'/>
+        <page name='Egzersiz - İsimlendirme'/>
+        <page name='Kahve Arası'/>
+        <page name='Sabitler ve Değişkenler - Giriş'/>
+        <page name='Sabitler ve Değişkenler'/>
+        <page name='Değişken Tanımlamak'/>
+        <page name='Değişkenlerle Çalışmak'/>
+        <page name='Bir Kestirme'/>
+        <page name='Değişen Dünya, Güvenilir Kod'/>
+        <page name='Sabit ve Değişkenler-Neler Öğrendik'/>
+        <page name='Egzersiz - Alışveriş Listesi'/>
+        <page name='Kararlar Almak - Giriş'/>
+        <page name='Doğru ve Yanlış'/>
+        <page name='Eşitlik'/>
+        <page name='Daha Fazla Karşılaştırma'/>
+        <page name='If (Eğer)'/>
+        <page name='Else (Değilse)'/>
+        <page name='Else If (Değilse Eğer)'/>
+        <page name='Kalan Operatörü'/>
+        <page name='Kararlar Almak - Neler Öğrendik?'/>
+        <page name='Egzersiz - Koşul İfadeleri'/>
+        <page name='Egzersiz - Else Alıştırmaları'/>
+        <page name='Kahve Arası!'/>
+        <page name='Listeler'/>
+        <page name='Dizi İfadeleri'/>
+        <page name='Dizinler'/>
+        <page name='Ögelerin Sayısı'/>
+        <page name='Dizileri İşlemek'/>
+        <page name='Döngüler'/>
+        <page name='Değişken Diziler'/>
+        <page name='Ögeler Eklemek'/>
+        <page name='Ögeler Çıkarmak'/>
+        <page name='Ögeleri Değiştirmek'/>
+        <page name='Diziler ve Döngüler - Neler Öğrendik?'/>
+        <page name='Egzersiz - Ögelerin Sayısı'/>
+        <page name='Egzersiz - Karaoke'/>
+        <page name='Egzersiz - Oy Sayımı'/>
+        <page name='Öğle Arası'/>
+    </pages>
+</playground>
